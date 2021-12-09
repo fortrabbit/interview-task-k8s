@@ -40,7 +40,7 @@ A fortrabbit client wants to launch a [Meilisearch](https://www.meilisearch.com/
 
 ## Questions and feedback
 
-- Create Issues with this repo.
+- [Create an issue](https://github.com/fortrabbit/interview-task-k8s/issues) with this repo
 - Ask early if things are not clear
 - Tell us if you are stuck, it's not shameful to ask for help
 - Let us know when you are done
