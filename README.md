@@ -10,7 +10,7 @@ A fortrabbit client wants to launch a [Meilisearch](https://www.meilisearch.com/
 - Create a proof of concept Meilisearch feature for fortrabbit.
 - Design a Kubernetes cluster that runs Meilisearch for multiple tenants.
 - We want to be able to run a single command with a given name and have it create a meilisearch setup for one tenant, then run it again with a different name and have it create a separate meilisearch setup for that new tenant
-- When using code, use the language of your choice, write as quick and dirty as possible, it's a MVP!
+- When using code, use the language of your choice, write as quick and dirty as possible, it's a POC!
 
 ### Implementation
 
